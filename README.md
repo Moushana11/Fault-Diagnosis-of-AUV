@@ -13,7 +13,7 @@ Autonomous Underwater Vehicles (AUVs) are critical in underwater exploration, su
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Moushana11/Fault_Diagnosis_of_AUV.git
+   git clone https://github.com/Moushana11/Fault-Diagnosis-of-AUV.git
    ```
 2. Change to the project directory:
    ```bash
